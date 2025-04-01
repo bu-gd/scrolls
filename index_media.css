@@ -1,6 +1,3 @@
-
-
-
 @media only screen and (max-width:530px) { /* For tablets: */
 
   p {
@@ -59,13 +56,15 @@
 
   #door-header {
     h3 {
-      font-size: 19px;
+      font-size: 0;
+      /* font-size: 19px; */
     }
   }
   
   #door-footer {
     h3 {
-      font-size: 19px;
+      font-size: 0;
+      /* font-size: 19px; */
     }
   }
 
