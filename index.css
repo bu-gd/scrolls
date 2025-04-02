@@ -41,6 +41,7 @@ iframe {
   height: 6vh;
   background: white;
   z-index: 2;
+  pointer-events: none;
 }
 
 .guard-bottom {
@@ -51,6 +52,7 @@ iframe {
   height: 6vh;
   background: white;
   z-index: 2;
+  pointer-events: none;
 }
 
 #door {
